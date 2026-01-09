@@ -1,2 +1,1 @@
-xin chao ngay moi
-choao ban nho
+add new line to create conflict
